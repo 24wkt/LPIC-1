@@ -1,0 +1,28 @@
+【1】Linuxの基本操作
+
+[1-1]Linuxのユーザーインターフェース
+~POINT~
+・LinuxのユーザーインターフェースにはCUIとGUIがある。
+・Linuxは基本的にCUIで操作する。
+・GUIの実現にはX Windows Systemが使われている。
+
+①GUI（Graphical User Interface）
+->マウスを使ってアイコンやメニューなどの視覚的な要素を操作する方式をGUIという。
+　WindowsやmacOSなど、最近のOSではGUIでの操作が当たり前。
+
+②CUI（Character-based User Interface）
+->キーボードを使って文字情報だけで操作する方式をCUIという。
+　Linuxではこちらのユーザーインターフェースが基本となる。
+
+『X Windows System』
+LinuxでGUIを利用するときは、「X Windows System」というLinuxとは別に開発されているソフトウェアが使われる。
+また、X Windows System上でデスクトップを実現するウィンドウマネージャとうおばれるソフトウェアが数多くあるので、Linuxのデスクトップは実に多彩。
+
+”CUIを使うメリット”
+
+・慣れればGUIよりも素早く操作ができる
+・一連の作業を自動化しやすい
+・離れた場所にあるコンピュータをネットワーク経由で操作しやすい
+
+->多くのCUI環境では、キーボードによる操作を快適にするための仕掛けが多数用意されている。
+　GUIよりもずっと素早く目的の操作を行うことができる。
