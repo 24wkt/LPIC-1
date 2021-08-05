@@ -379,3 +379,12 @@ $ ln -s 元のファイル　作成するリンクファイル
 
 【試験にトライ！】
 A) ln -s /etc/hosts hosts.lnk   ◯
+
+【２日目のおさらい】 2021/08/05 7/7
+Q1, プロンプト   ◯
+Q2, root    ◯
+Q3, man  ◯
+Q4, shutdown   ◯
+Q5, A, B, E    ◯
+Q6, /pub/data/docs/index.txt    ◯
+Q7, /home/penguin/src/ruby　　◯
