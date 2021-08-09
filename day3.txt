@@ -296,3 +296,14 @@ $ groupdel グループ名
 【試験にトライ！】
 Q) C, E ✖︎
 A) C, D
+
+【３日目おさらい】6/9(2021/08/10)
+Q1) cp bashrc.org /etc/bashrc   ✖︎　cp /etc/bashrc bashrc.org
+Q2) mv address.old address.dat  ✖︎  mv address.dat address.old
+Q3) rm -r /tmp/data             ◯
+Q4) tar cvf /tmp/downloads　　　 ✖︎ tar cvf downloads.tar /tmp/downloads
+Q5) /etc/passwd                 ◯
+Q6) su -, sudo                  ◯
+Q7) groups, id                  ◯
+Q8) useradd robert              ◯
+Q9) userdel -r robert           ◯
